@@ -24,6 +24,9 @@ for creating new column following DAX expression was written;
 Snap of new cards present on dashboard,
 [Screenshot 2024-08-12 124328](https://github.com/user-attachments/assets/6ea45234-8e3d-4e37-8e6f-c8a3d555879b)
 
+snap of  full dashboard
+![Screenshot 2024-08-12 131722](https://github.com/user-attachments/assets/98d86ae2-1500-4aa7-9342-f4d58c071a35)
+
 
 
 
