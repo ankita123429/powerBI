@@ -21,7 +21,9 @@ for creating new column following DAX expression was written;
       No of Items = COUNTROWS('BlinkIT Grocery Data')
       Total sales = SUM('BlinkIT Grocery Data'[Sales])
         
-Snap of new calculated column ,
+Snap of new cards present on dashboard,
+[Screenshot 2024-08-12 124328](https://github.com/user-attachments/assets/6ea45234-8e3d-4e37-8e6f-c8a3d555879b)
+
 
 
 
