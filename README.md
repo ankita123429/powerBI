@@ -1,11 +1,9 @@
 
 # Blinkit-Dashboard
 
-### Dashboard Link : https://app.powerbi.com/groups/me/reports/384d017e-e935-44dc-9e7d-1626c1a36de1/ReportSection
-
 ## Problem Statement
 
-This dashboard helps the us to understand blinkit store in different cities. It helps us to know  know how much total sales, and average sales are providing by different store. Through different ratings, we  get to know  improvement area, & thus they can improve their services by identifying these area. It also lets them know the average sales & total no of items  in different tier cities, thus since by using this dashboard we have identified  which items are mostly runs in different stores.
+This dashboard helps the us to understand blinkit store in different cities. It helps us to know  how much total sales, and average sales are providing by different store. Through different ratings, we  get to know  improvement area, & thus they can improve their services by identifying these area. It also lets them know the average sales & total no of items  in different tier cities, thus since by using this dashboard we have identified  which items are mostly runs in different stores.
 
 ### Steps followed 
 
